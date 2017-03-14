@@ -1,6 +1,7 @@
 {
     "name": "digvijay-singh-chauhan/mspartnercenter",
     "description": "API Wrapper to connect to Microsoft Partner Center.",
+    "version":2.0,
     "authors": [
         {
             "name": "Digvijay Singh",
